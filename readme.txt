@@ -12,10 +12,11 @@ Calculate shipping costs based on destination, weight and/or price. Supports unl
 This WooCommerce plugin is for anyone who needs to calculate shipping costs based on destination, weight and/or price. 
 
 **Features:**
+
 * Unlimited shipping zones (country groups).
 * Unlimited rates.
 * Tier your shipping costs based on cart weight, or cart sub-total.
-* Optional handling fees
+* Optional handling fees.
 
 **Requires:** WooCommerce 2.1 or above
 

@@ -5,27 +5,23 @@ Requires at least: 3.9
 Tested up to: 3.9
 Stable tag: trunk
 
-Calculate shipping costs based on destination, weight and price. Supports unlimited country groups and rates.
+Calculate shipping costs based on destination, weight and/or price. Supports unlimited country groups and rates.
 
 == Description ==
 
 This WooCommerce plugin is for anyone who needs to calculate shipping costs based on destination, weight and/or price. 
 
-**Features**
-
+**Features:**
 * Unlimited shipping zones (country groups).
-
 * Unlimited rates.
-
 * Tier your shipping costs based on cart weight, or cart sub-total.
-
 * Optional handling fees
 
 **Requires:** WooCommerce 2.1 or above
 
-A premium version is available with additional features such as multiple shipping methods (E.g 'Standard Shipping', 'Express Shipping'). [Click here to find out more](http://mangohour.com/plugins/woocommerce-table-rate-shipping).
+**A premium version of this plugin is available with additional features such as multiple shipping methods (E.g 'Standard Shipping', 'Express Shipping'). [Click here to find out more](http://mangohour.com/plugins/woocommerce-table-rate-shipping).**
 
-I hope you will find this plugin useful! Please leave any feedback and questions in the Support forum. I will do my best to help.
+I hope you will find this plugin useful! Please leave any feedback or questions in the support forum - I will do my best to help.
 
 == Installation ==
 
@@ -65,6 +61,9 @@ The cheapest applicable rate will be chosen automatically for the customer.
 2. Cart example, using shown settings
 
 == Changelog ==
+
+= 1.0.1 =
+* Improved readme.txt formatting.
 
 = 1.0.0 =
 * First release.

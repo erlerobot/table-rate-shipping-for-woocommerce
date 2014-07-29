@@ -1,7 +1,8 @@
 === WooCommerce Table Rate Shipping by Mangohour  ===
 Contributors: mangohour
 Tags: country, weight, cart total, price, woocommerce, table rate, shipping, calculator
-Requires at least: 3.9
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=sales@mangohour.com&item_name=Donation+for+Table+Rate+Shipping
+Requires at least: 3.8
 Tested up to: 3.9
 Stable tag: trunk
 

@@ -15,11 +15,11 @@ This WooCommerce plugin is for anyone who needs to calculate shipping costs base
 * Unlimited shipping zones (country groups).
 * Unlimited rates.
 * Tier your shipping costs based on cart weight, or cart sub-total.
-* Optional handling fees.
+* Optional handling fees
 
-**Requires:** WooCommerce 2.1 or above
+This plugin requires WooCommerce 2.1 or above.
 
-**A premium version of this plugin is available with additional features such as multiple shipping methods (E.g 'Standard Shipping', 'Express Shipping'). [Click here to find out more](http://mangohour.com/plugins/woocommerce-table-rate-shipping).**
+A premium version is also available with additional features such as multiple shipping methods (E.g 'Standard Shipping', 'Express Shipping'). [Click here to find out more](http://mangohour.com/plugins/woocommerce-table-rate-shipping).
 
 I hope you will find this plugin useful! Please leave any feedback or questions in the support forum - I will do my best to help.
 

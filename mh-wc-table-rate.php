@@ -3,7 +3,7 @@
 Plugin Name: WooCommerce Table Rate Shipping by Mangohour
 Plugin URI: http://wordpress.org/plugins/table-rate-shipping-for-woocommerce/
 Description: Calculate shipping costs based on destination, weight and price. Supports unlimited country groups and rates.
-Version: 1.0.1
+Version: 1.0.2
 Author: mangohour
 Author URI: http://mangohour.com/
 Text Domain: mhtr
@@ -721,7 +721,7 @@ if ( in_array( 'woocommerce/woocommerce.php', apply_filters( 'active_plugins', g
 					
 					$table_rate = $this->pick_cheapest_table_rate($available_table_rates);
 					
-					if ($this->settings['tax_status'] == 'None') {
+					if ($this->settings['tax_status'] == 'none') {
 						$tax = false;
 					} else {
 						$tax = '';
@@ -735,6 +735,7 @@ if ( in_array( 'woocommerce/woocommerce.php', apply_filters( 'active_plugins', g
 							'id' => $this->id,
 							'label' => $this->title,
 							'cost' => $cost,
+							'taxes' => $tax,
 							'calc_tax' => 'per_order'
 						);
 	

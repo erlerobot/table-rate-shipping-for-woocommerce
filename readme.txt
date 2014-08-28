@@ -63,6 +63,9 @@ The cheapest applicable rate will be chosen automatically for the customer.
 
 == Changelog ==
 
+= 1.0.2 =
+* Fixed tax calculation bug.
+
 = 1.0.1 =
 * Improved readme.txt formatting.
 

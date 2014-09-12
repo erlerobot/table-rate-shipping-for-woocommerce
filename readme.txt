@@ -3,7 +3,7 @@ Contributors: mangohour
 Tags: country, weight, cart total, price, woocommerce, table rate, shipping, calculator
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=sales@mangohour.com&item_name=Donation+for+Table+Rate+Shipping
 Requires at least: 3.8
-Tested up to: 3.9
+Tested up to: 4.0
 Stable tag: trunk
 
 Calculate shipping costs based on destination, weight and/or price. Supports unlimited country groups and rates.
